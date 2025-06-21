@@ -80,7 +80,7 @@ A synthetic dataset of 10,000 BBD orders. Each row includes:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yashbhilare21/flipkart-bbd-analysis-2024.git
+git clone https://github.com/Yashbhilare21/Flipkart-Big-Billion-Days-Analysis-2024.git
 
 # Open Jupyter notebook
 cd notebooks/
