@@ -84,4 +84,4 @@ git clone https://github.com/yashbhilare21/flipkart-bbd-analysis-2024.git
 
 # Open Jupyter notebook
 cd notebooks/
-jupyter notebook bbd_eda.ipynb
+jupyter notebook Big Billion Days EDA.ipynb
